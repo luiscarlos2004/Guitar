@@ -1,2 +1,2 @@
 # Guitar
-This is practice project for education purpose
+This is a practice project for education purpose
